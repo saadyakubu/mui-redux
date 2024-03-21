@@ -1,5 +1,7 @@
 # React + TypeScript + Vite
 
+[Original Tutorial link](https://allmaddesigns.com/create-a-react-list-in-minutes-with-vite-mui-redux)
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
